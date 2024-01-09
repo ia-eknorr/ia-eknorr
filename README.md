@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/embed/Lny6Rw04nsOOc"  />
+  ![giphy](https://giphy.com/embed/Lny6Rw04nsOOc)
 </div>
 
 ###
@@ -8,12 +8,6 @@
   <a href="https://www.linkedin.com/in/etknorr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ia-eknorr.ia-eknorr&"  />
 </div>
 
 ###
@@ -84,8 +78,6 @@
 <div align="center">
   <img src="https://novatorem-two-gamma.vercel.app/api/spotify" alt="Widget with the current Spotify song"  />
 </div>
-
-[![Spotify](https://novatorem-two-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/etknorr)
 
 ###
 
