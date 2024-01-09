@@ -1,4 +1,6 @@
-![code](images/code.gif)
+<p align="center">
+  <img alt="Code" src="images/code.gif">
+</p>
 
 ###
 
