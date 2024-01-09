@@ -1,6 +1,4 @@
-<div align="center">
-  ![code](images/code.gif)
-</div>
+![code](images/code.gif)
 
 ###
 
@@ -56,21 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ia-eknorr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ia-eknorr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ia-eknorr&" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ia-eknorr&area=true" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://novatorem-two-gamma.vercel.app/?" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ia-eknorr.ia-eknorr&"  />
 </div>
 
 ###
