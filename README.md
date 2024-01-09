@@ -1,5 +1,5 @@
 <div align="center">
-  ![img](https://giphy.com/gifs/code-404-javascript-Lny6Rw04nsOOc)
+  ![code](images/code.gif)
 </div>
 
 ###
