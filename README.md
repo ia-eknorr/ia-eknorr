@@ -1,5 +1,5 @@
 <div align="center">
-  ![https://giphy.com/embed/Lny6Rw04nsOOc](https://giphy.com/gifs/code-404-javascript-Lny6Rw04nsOOc)
+  ![img](https://giphy.com/gifs/code-404-javascript-Lny6Rw04nsOOc)
 </div>
 
 ###
