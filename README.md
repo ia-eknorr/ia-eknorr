@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Eric from Denver<br><br>- 🔭 I’m working as an Application Engineer at Inductive Automation<br>- 📚 I'm currently learning lots about GitHub actions<br>- ⚡ In my free time I love getting outside to go rock climbing</p>
+<p align="left">I'm Eric from Denver<br><br>- 🔭 I’m working as an Application Engineer at Inductive Automation<br>- 📚 I'm currently learning lots about Kubernetes with Ignition 🤯<br>- ⚡ In my free time I love getting outside to go rock climbing</p>
 
 ###
 
