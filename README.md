@@ -66,7 +66,7 @@ Mechanical engineer by degree, platform engineer by path. I spent four years bui
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ia-eknorr&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ia-eknorr&theme=dark&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 ###
