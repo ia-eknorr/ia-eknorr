@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Eric%20Knorr&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20Platform%20Engineer%20%C2%B7%20Kubernetes%20%C2%B7%20GitOps%20%C2%B7%20AWS&descAlignY=55&descSize=16" alt="header" />
+</div>
+
 ###
 
 <div align="center">
