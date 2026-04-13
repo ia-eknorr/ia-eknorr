@@ -12,6 +12,8 @@
 
 <h1 align="center">hey, I'm Eric</h1>
 
+<p align="center">Senior Platform Engineer · Kubernetes · GitOps · AWS · Denver, CO</p>
+
 ###
 
 <h3 align="left">about me</h3>
