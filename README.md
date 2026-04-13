@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">hey, I'm Eric</h1>
+<h1 align="center">Hey, I'm Eric</h1>
 
 <p align="center">Senior Platform Engineer · Kubernetes · GitOps · AWS<br>Denver, CO</p>
 
