@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<h1 align="center">hey, I'm Eric</h1>
+
 ###
 
 <h3 align="left">about me</h3>
