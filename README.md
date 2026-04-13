@@ -1,73 +1,84 @@
-<p align="center">
-  <img alt="Code" src="images/code.gif">
-</p>
-
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/etknorr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey, I'm Eric</h1>
+
+<p align="center">
+  <em>Senior Platform Engineer · Kubernetes · GitOps · AWS</em><br>
+  <em>Denver, CO</em>
+</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">about me</h3>
 
 ###
 
-<p align="left">I'm Eric from Denver<br><br>- 🔭 I’m working as an Application Engineer at Inductive Automation<br>- 📚 I'm currently learning lots about Kubernetes with Ignition 🤯<br>- ⚡ In my free time I love getting outside to go rock climbing</p>
+Mechanical engineer by degree, platform engineer by path. I spent four years building SCADA and HMI applications before shifting fully into infrastructure and tooling.
+
+- Senior Application Engineer (Platform) at **Inductive Automation**, leading Kubernetes platform migrations for customer-facing deployments
+- Multi-cluster AWS architecture with GitOps promotion pipelines — ArgoCD, Kargo, Helm
+- Author of **Stoker**, a custom Go Kubernetes operator for declarative stateful configuration management
+- Observability across the stack with Grafana, Prometheus, and OpenTelemetry
+- Outside the terminal I'm usually on a rock face somewhere
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">stack</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ia-eknorr&no-bg=true&theme=onedark" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ia-eknorr&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://novatorem-two-gamma.vercel.app/api/spotify" alt="Widget with the current Spotify song"  />
+  <img src="https://novatorem-two-gamma.vercel.app/api/spotify" alt="Spotify" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ia-eknorr.ia-eknorr&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ia-eknorr.ia-eknorr&" />
 </div>
 
 ###
