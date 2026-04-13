@@ -14,12 +14,12 @@
 
 ---
 
-Mechanical engineer by degree, platform engineer by path. I spent four years building SCADA and HMI applications before shifting fully into infrastructure and tooling.
+> Mechanical engineer by degree, platform engineer by path. I spent four years building SCADA and HMI applications before shifting fully into infrastructure and tooling.
 
-- Senior Application Engineer (Platform) at **Inductive Automation**, leading Kubernetes platform migrations for customer-facing deployments
-- Multi-cluster AWS architecture with GitOps promotion pipelines — ArgoCD, Kargo, Helm
-- Author of **Stoker**, a custom Go Kubernetes operator for declarative stateful configuration management
-- Observability across the stack with Grafana, Prometheus, and OpenTelemetry
+- Senior Application Engineer (Platform) at **Inductive Automation**, leading <kbd>Kubernetes</kbd> platform migrations for customer-facing deployments
+- Multi-cluster <kbd>AWS</kbd> architecture with GitOps promotion pipelines — <kbd>ArgoCD</kbd> <kbd>Kargo</kbd> <kbd>Helm</kbd>
+- Author of **Stoker**, a custom <kbd>Go</kbd> Kubernetes operator for declarative stateful configuration management
+- Observability across the stack with <kbd>Grafana</kbd> <kbd>Prometheus</kbd> <kbd>OpenTelemetry</kbd>
 - Outside the terminal I'm usually on a rock face somewhere
 
 ---
